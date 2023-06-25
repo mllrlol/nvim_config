@@ -1,0 +1,6 @@
+require('tester.remap')
+require('tester.set')
+require('tester.plugins')
+require('tester.p-mason')
+require('tester.p-lsp')
+require('tester.color')
